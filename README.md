@@ -1,5 +1,7 @@
 ## Hello
 
+<img align="right" width="18%" height="150" src="https://github.com/LuanBagioCompagnoni/LuanBagioCompagnoni/blob/main/CoffeeBird.gif">
+
 #### My name is Luan, I am a systems installation technician (but I really wanted to be a developer 😿). I am in the 5th period of my Systems Analysis and Development degree 🎆.
 
 I am a programming student looking for an opportunity as a back-end developer 🤠.
