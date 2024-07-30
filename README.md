@@ -6,7 +6,7 @@
 
 I am a programming student looking for an opportunity as a back-end developer 🤠.
 
-I already have everything to be a dev, I love coffee and I know how to say "maybe" 😎.
+I already have everything to be a dev, I love coffee and I know how to say "It depends" 😎.
 
 ## My background:
 
