@@ -3,6 +3,8 @@
 <img align="right" width="18%" height="150" src="https://github.com/LuanBagioCompagnoni/LuanBagioCompagnoni/blob/main/CoffeeBird.gif">
 
 #### My name is Luan, I am a NodeJS Developer. I am in the 5th period of my Systems Analysis and Development degree 🎆.
+<br>
+<br>
 
 ## My background:
 
