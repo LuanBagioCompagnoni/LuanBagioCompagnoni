@@ -18,7 +18,8 @@
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="48px" height="48px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="48px" height="48px"></a>
 <a href="https://www.ruby-lang.org/" title="Ruby"><img src="https://github.com/get-icon/geticon/raw/master/icons/ruby.svg" alt="PHP" width="48px" height="48px"></a>
-
+<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="PHP" width="48px" height="48px"></a>
+<a href="https://spring.io/" title="Spring Boot"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="PHP" width="48px" height="48px"></a>
 
 ### Test
 <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="48px" height="48px"></a>
