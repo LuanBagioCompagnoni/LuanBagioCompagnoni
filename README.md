@@ -54,16 +54,3 @@
 <a href="mailto:luancmpg@gmail.com" title="Google Gmail"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="Google Gmail" width="48px" height="48px"></a>
 
 <br>
-
-## Should I have a coffee?
-```node
-function haveACoffee(cup){
-  if(cup === "empty"){
-    console.log("Yes, let's get a coffee!";
-  }else{
-    console.log("Yes, let's get another cup of coffee!";
-  }
-}
-
-haveACoffee(myCup);
-```
